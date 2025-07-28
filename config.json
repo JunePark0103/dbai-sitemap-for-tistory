@@ -1,7 +1,7 @@
 {
-  "blog_url": "https://dualbrain.tistory.com/,
+  "blog_url": "https://dualbrain.tistory.com,
   "is_initialized": true,
-  "max_pages": 5,
+  "max_pages": 10,
   "output_file": "sitemap.xml",
   "selector": {
     "link_selector": ".title",
